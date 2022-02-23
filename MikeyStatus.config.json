@@ -1,0 +1,17 @@
+{
+    "token": "",
+    "timeout": 66123,
+    "animation": [
+        [
+            1645563170665
+        ],
+        [
+            "test"
+        ],
+        [
+            "ayo"
+        ]
+    ],
+    "message": "${time} days until Mikey is unbanned",
+    "deadline": 1651122000
+}
