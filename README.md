@@ -8,8 +8,9 @@ This repo was built from [toluschr/BetterDiscord-Animated-Status](https://github
 * Open Discord -> User Settings -> plugins -> Open Plugins Folder
 * Move all files into the plugins folder.
 * Get your discord token by following [This Tutorial](https://www.youtube.com/watch?v=YEgFvgg7ZPI).
-  * Do NOT post your token ANYWHERE online
-  * Doing so will require you to change your password
+  * Do NOT post your token ANYWHERE online.
+    * Doing so will require you to change your password.
+    * This also compromises your token, which can be used to access your account. Either permanently delete the token or get a new account, Discord doesnt change your token.
 * Open Discord -> User Settings -> plugins -> MikeyStatus -> Settings
 * Enter your token and customize the message and date in the settings.
 
